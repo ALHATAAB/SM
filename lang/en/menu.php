@@ -1,0 +1,120 @@
+<?php
+
+ return [
+   "Smart_School" =>"Smart School",
+    "Tableau_de_bord" => "Dashboard",
+    "Configuration" => "Configuration",
+    "Licence_contrat" => "Licence/Contract",
+    "Parametre" => "Setting",
+    "Parametre_generaux" => "General settings",
+    "Parametre_societe" => "Company setting",
+    "Parametre_utilisateurs" => "User settings",
+    "Parametre_caisses"=>"Cash register settings",
+    "Parametre_agences" => "Agency settings",
+    "Parametre_role_permission" => "Role permission setting",
+    "Parametre_banques" => "Bank settings",
+    "Parametre_paieRH" => "HR Payroll Settings",
+
+    "Administration"=>"Administration",
+    "Annee_scolaire"=>"School year",
+    "Trimestre"=>"Quarter",
+    
+    "Classe_etude"=>"Study class",
+    
+    "Salle_etude"=>"Study room",
+    "Niveau_etude" =>"Level of study",
+    "Matiere_etude"=>"Study material",
+    "Filiere_etude"=>"Course of study",
+    "Matiere_niveau"=>"Subject by level",
+    "Frais_etude"=>"Study fees",
+    "Coefficient_matiere"=>"Material coefficient",
+
+    "Pre_inscription"=>"Pre-registration",
+    "Inscription"=>"Registration",
+    "Reglement_frais_scolaire"=>"School fees regulations",
+    "Liste_inscrit"=>"Registered list",
+    "Liste_presence_apprenant"=>"Learner attendance list",
+    "Liste_absence_apprenant"=>"Learner absence list",
+    "Liste_presence_enseignant"=>"Teacher attendance list",
+    "Liste_absence_enseignant"=>"Teacher absence list",
+    "Liste_enseignant"=>"Teacher list",
+    "Enseignants"=>"Teachers",
+    "Emargement_enseignant" =>"Teacher registration",
+    "Gestion_Paie_enseignant"=>"Teacher payroll management",
+    "Programme"=>"Program",
+    "Scolarite"=>"Schooling",
+    "Liste_apprenant_par_classe"=>"List of learners by class",
+    "Reglement_paie_enseignant"=>"Teacher payroll regulations",
+
+
+    "Emploi_du_temps"=>"Timetable",
+    "Bulletin_scolaire"=>"Report cards",
+    "Test_entree"=>"Entrance test",
+    "Test_niveau"=>"Level test",
+    "Bulletin"=>"Study Bulletins",
+
+
+    "Bibliotheque"=>"Library",
+    "Livre_en_ligne"=>"Online book",
+    "Livre_acheter"=>"Book purchased",
+    "Livre_vendu" =>"Book sold",
+
+     "Ressource_humaine"=>"Human Resources",
+    "Employer"=>"Employee",
+    "Paie"=>"Payroll",
+    "Conger"=>"Leave",
+    "Rubrique"=>"Rubric",
+    "Constante_paie"=>"Payroll constants",
+    "Calcul_bulletin"=>"Bulletin calculation",
+    "Calcul_Paie"=>"Payroll calculation",
+    "Reglement_Paie"=>"Payroll regulations",
+
+    "Cantine"=>"Canteen",
+    "Suivie_cantine"=>"Canteen monitoring",
+    
+    "Transport"=>"Transportation",
+    "Suivie_transport"=>"Transport tracking",
+
+    "Date_comptable"=>"Accounting date",
+    "Comptabilite"=>"Accounting",
+    "Gestion_caisse" =>"Cash management",
+    "Journal_caisse" =>"Cash journal",
+    "Operation_fianciere"=>"Financial transaction",
+    "Gestion_banque" =>"Bank management",
+    "Journal_banque" =>"Bank newspaper",
+
+    
+    "Encaissement_divers"=>"Various collections",
+    "Ajouter_encaissement_divers"=>"Add various collections",
+    "Valider_encaissement_divers"=>"Validate various collections",
+    "Rejeter_encaissement_divers"=>"Reject various collections",
+    'Gestion_depense'=>'Expense management',
+
+    "Carte_scolaire"=>"School cards",
+    "Carte_professionnelle"=>"Professional cards",
+    "Certificat_scolarite"=>"School certificates",
+    "Certificat_travail"=>"Employment certificates",
+
+    // --- Mise à jour des libellés ---
+    "Abonnement"=>"Subscription",
+    "Approvisionnement_caisse"=>"Cash register funding",
+    "DARUL_AMAN"=>"Darul Aman",
+    "Etat_caisse"=>"Cash statement",
+    "Frais_abonnement"=>"Subscription fees",
+    "Historique_abonnement_apprenant"=>"Learner subscription history",
+    "Historique_inscription_apprenant"=>"Learner enrollment history",
+    "Historique_paiement_scolarite"=>"School fee payment history",
+    "Inventaire"=>"Inventory",
+    "Livre"=>"Book",
+    "Mouvement_stock"=>"Stock movement",
+    "Note_apprenant_par_classe"=>"Learner grades by class",
+    "Nouvel_abonnement"=>"New subscription",
+    "Parametre_paie_RH"=>"HR payroll settings",
+    "Personnel_Administratif"=>"Administrative staff",
+    "Recherche_preinscrit"=>"Search pre-registered",
+    "Reglement_abonnee"=>"Subscriber payment",
+    "Suivie_abonne"=>"Subscriber follow-up",
+    "Type_abonnement"=>"Subscription type",
+]
+
+?>
